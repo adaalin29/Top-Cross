@@ -1,0 +1,1272 @@
+@media only screen and (max-width: 1366px) {
+  #offroad_page .swiper-button-video-prev{
+    left: -25px;
+    top: -150px;
+  }
+  #offroad_page .swiper-button-video-next {
+    top: -130px;
+    margin-left: auto;
+    right: -25px;
+  }
+  .yellow-button-modified{
+    font-size: 16px!important;
+  }
+  #newsletter_section, #newsletter_section .overlay {
+    height: 582px;
+  }
+  #newsletter_section{
+    margin-bottom: 40px;
+  }
+  .voucher-text-height {
+    height: 143px;
+  }
+  .swiper-button-prev3, .swiper-button-next3 {
+    top: 86%;
+  }
+  .request-offer-text{
+    width:80%;
+  }
+  .voucher-container{
+    padding-top: 30px;
+    padding-left: 30px;
+    height: 250px;
+    overflow: hidden;
+  }
+  .voucher-pret-cifra{
+    font-size: 39px;
+  }
+  .voucher-pret-lei{
+    padding-bottom: 0px;
+  }
+  .name-here {
+    font-size: 29px;
+  }
+  #gallery_page figure {
+    height: 170px;
+  }
+
+  .my_container {
+    max-width: 1024px;
+  }
+  .header-menu ul {
+    padding: 0 30px;
+  }
+  .header-menu ul a li {
+    font-size: 15px;
+    padding: 30px 0px;
+  }
+  h1 {
+    font-size: 38px;
+  }
+  h3 {
+    font-size: 22px;
+  }
+  p {
+    font-size: 16px;
+  }
+  .blue_border_btn {
+    font-size: 15px;
+  }
+  #rent_bike_homepage .blue_border_btn,
+  #contact_page .blue_border_btn {
+    width: 220px;
+  }
+  #footer h5 {
+    font-size: 20px;
+  }
+  #footer_menu p {
+    font-size: 15px;
+  }
+  #last_part_footer p,
+  #developed_by p {
+    font-size: 13px;
+  }
+  #contact_page label {
+    font-size: 16px;
+  }
+  .rent-section {
+    width: 1024px;
+    padding: 45px 6%;
+  }
+  .text1 {
+    font-size: 29px;
+  }
+  .text2 {
+    font-size: 56px;
+  }
+  .header-message {
+    margin-top: 3%;
+  }
+  .text3 {
+    margin-top: 0px;
+  }
+  #video_with_text {
+    height: 485px;
+  }
+  .yellow_title {
+    font-size: 42px;
+  }
+  .swiper-container.s2 .swiper-slide {
+    height: 238px;
+  }
+  .tour-description {
+    height: 64px;
+    font-size: 15px;
+  }
+  .bike-description {
+    height: 110px;
+    font-size: 15px;
+  }
+  .info_descriere {
+    font-size: 15px;
+    height: 90px;
+  }
+  #offers_home img,
+  .card_cadou {
+    height: 262px;
+  }
+  #about_homepage .swiper-button-prev {
+    top: 170px;
+  }
+  #about_homepage .swiper-button-next {
+    top: -175px;
+  }
+  .price_element h6 {
+    font-size: 24px;
+  }
+  .course img {
+    height: 234px;
+  }
+  .course .tour-description {
+    padding: 0px 25px;
+  }
+  .tour_detail h1 {
+    font-size: 45px;
+  }
+  .tour_detail p {
+    font-size: 21px;
+  }
+  #offroad_page .yellow_btn,
+  #offroad_details_page .yellow_btn {
+    font-size: 20px;
+  }
+  .card_cadou h1 {
+    font-size: 32px;
+  }
+  #pret_card_cadou,
+  #pret_card_cadou::placeholder {
+    font-size: 40px;
+  }
+  #name_card_cadou {
+    font-size: 30px;
+  }
+}
+
+@media only screen and (max-width: 1280px) {
+  #newsletter_section p {
+    font-size: 22px;
+  }
+  h1 {
+    font-size: 37px;
+  }
+  .price_element h6 {
+    font-size: 23px;
+  }
+  .yellow_title {
+    font-size: 35px;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .testimonial p {
+    font-size: 15px;
+  }
+  #video_with_text .blue_background p {
+    max-height: 220px;
+  }
+  #gallery_page figure {
+    height: 230px;
+  }
+
+  .testimonial img {
+    width: 125px;
+    height: 125px;
+  }
+  .info_descriere {
+    font-size: 15px;
+  }
+  h1 {
+    font-size: 36px;
+  }
+  #newsletter_section p {
+    font-size: 20px;
+  }
+  .header-message {
+    padding-left: 55px;
+  }
+  .my_container {
+    max-width: 1000px;
+  }
+  .text1 {
+    font-size: 30px;
+  }
+  .text2 {
+    font-size: 62px;
+  }
+  .rent-section {
+    width: 992px;
+  }
+  .price_element h6 {
+    font-size: 22px;
+  }
+  .course .tour-description {
+    font-size: 14px;
+  }
+  .tour_detail h1 {
+    font-size: 40px;
+  }
+  .tour_detail p {
+    font-size: 19px;
+  }
+  p {
+    font-size: 15px;
+  }
+  #name_card_cadou {
+    font-size: 26px;
+  }
+  #pret_card_cadou,
+  #pret_card_cadou::placeholder {
+    font-size: 36px;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .rent-container{
+    margin-top: 210px;
+  }
+  .my_container>.rent-mobile-visible{
+    display:block!important;
+    left: 2%!important;
+    top: 487px;
+    height: 330px;
+    width:95%;
+  }
+  .rent-mobile-visible>.d-flex>.title, .rent-mobile-visible>.d-flex>.subtitle{
+    text-align: center;
+  }
+  .rent-mobile-visible>.position-relative>.custom-datepicker{
+    width:100%;
+    margin-bottom: 20px;
+    background-position: 97%;
+  }
+  .rent-mobile-visible>.position-relative{
+    widtH:60%;
+    margin:0 auto;
+    margin-top:20px;
+  }
+  .rent-mobile-visible>.custom-button{
+    margin:0 auto;
+  }
+  #offroad_page .swiper-button-video-prev{
+    left: -25px;
+    top: -160px;
+  }
+  #offroad_page .swiper-button-video-next {
+    top: -140px;
+    margin-left: auto;
+    right: -25px;
+  }
+  .send-request-margin{
+    margin-bottom: 40px;
+  }
+  .row>.col-lg-4>.send-request-button{
+    width:200px!important;
+    margin-top: 20px;
+    margin-bottom: 0px!important;
+  }
+  #guided_details_page>.my_container>.send-request>.row>.col-lg-4>.send-request-button{
+    width:200px!important;
+    margin-top: 20px;
+  }
+  #pop_tours_title{
+    margin-top: 0px!important;
+  }
+  .swiper-slide-poza{
+    max-width:100%;
+  }
+  .guided-container{
+    display:none;
+  }
+  .guided-container{
+    flex-wrap: wrap;
+  }
+  .margine-mobil-offroad{
+    margin-bottom: 20px;
+  }
+  .content-between{
+    justify-content: center;
+  }
+  .rent-button-muta{
+    margin:0 auto;
+    width:200px;
+    margin-bottom: 40px;
+  }
+  .bike-name{
+    text-align: center;
+  }
+
+  #newsletter_section, #newsletter_section .overlay {
+    height: 414px!important;
+  }
+  .bike_box>.bike-link{
+    display:block;
+    width:155px;
+    margin:0 auto;
+    background-position: 86%;
+    padding: 15px 18px;
+  }
+  .bike_box>h5{
+    text-align: center;
+  }
+  #newsletter_section .subscribe_btn {
+    width: 50%;
+    padding:15px 20px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #newsletter_section
+  #newsletter_section, #newsletter_section .overlay {
+    height: 414px;
+  }
+  #newsletter_section .row {
+    padding-top: 40px;
+  }
+  .swiper-button-prev3, .swiper-button-next3 {
+    top: 50%!important;
+  }
+  .swiper-button-prev3 {
+    left: -2%!important;
+  }
+  .info_descriere{
+    text-align: left;
+  }
+  .swiper-button-next3 {
+    left: 94%!important;
+  }
+  .blue-text-center{
+    text-align: center;
+  }
+  .product-description>.blue_border_btn{
+    margin:0 auto;
+  }
+  .bike-description{
+    text-align: center;
+  }
+  .tag-list{
+    justify-content: center;
+  }
+  .swiper-moto-img {
+    width: 100%!important;
+    margin: 0 auto;
+  }
+  .header-social {
+    width: 20px;
+    height: 20px;
+    display: block;
+    margin-right: 10px;
+}
+  .request-offer-text{
+    width:100%;
+  }
+  .event-item{
+    flex-direction: column-reverse;
+    margin-bottom: 40px;
+  }
+  .event-left{
+    width:100%;
+    height: 100%;
+  }
+  .event-right{
+    width:100%;
+    margin-bottom: 40px;
+  }
+  .voucher-container {
+    padding-bottom: 20px;
+  }
+  .name-here {
+    font-size: 22px;
+    margin-bottom: 0px;
+  }
+  .logo-voucher {
+    width: 136px;
+    height: 20px;
+  }
+  .voucher-title{
+    font-size: 24px;
+  }
+  .voucher-image {
+    width: 55%;
+    height: 81%;
+    position: absolute;
+    top: 13px;
+    right: 20px;
+  }
+  .voucher-description{
+    font-size: 15px;
+  }
+  .guided-video{
+    border-radius: 20px 20px 0px 0px;
+  }
+  #prev-mobile,
+  #next-mobile {
+    display: flex;
+    position: absolute !important;
+    top: 48% !important;
+  }
+  #prev-desktop,
+  #next-desktop {
+    display: none;
+  }
+
+  #gallery_page figure {
+    height: 168px;
+  }
+  #gallery_page .container-principal {
+    top: 0px;
+    padding-bottom: 50px;
+  }
+  #search_page .container-principal {
+    top: 0px;
+    padding: 0px;
+  }
+  #offroad_page .yellow_btn,
+  #offroad_details_page .yellow_btn {
+    padding: 14px 53px;
+    font-size: 18px;
+  }
+  .left-right img,
+  .image_holder img {
+    width: 100%;
+  }
+  .course .tour-description {
+    font-size: 16px;
+  }
+  #course_page .col-lg-4 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .course img {
+    height: auto;
+    width: 100%;
+  }
+
+  .course {
+    margin-bottom: 50px;
+  }
+  #pop_tours,
+  #rec_tours,
+  #other_tours,
+  #gift_images,
+  #team_page .testimoniale_swiper {
+    display: none;
+  }
+  .pop_tours_swiper,
+  .rec_tours_swiper,
+  .other_tours_swiper,
+  .gift_swiper,
+  .team_members {
+    display: inherit;
+  }
+  #guided_page .blue_border_btn,
+  #offroad_details_page .blue_border_btn {
+    width: 100% !important;
+    text-align: center;
+    background-position: 88% !important;
+    margin-top: 20px;
+  }
+  #contact_page label,
+  #rent_single label,
+  #guided_page label,
+  #guided_details_page label,
+  #offroad_details_page label {
+    font-size: 17px;
+  }
+  .bike_box a,
+  .i_hate_you {
+    padding: 15px 90px;
+    font-size: 17px;
+  }
+  .bike_box {
+    margin-bottom: 50px;
+  }
+  .bike-description {
+    font-size: 14px;
+  }
+  .social-header,
+  .header-menu {
+    display: none !important;
+  }
+  .my_container {
+    max-width: 750px;
+  }
+  .mobile-header-container {
+    display: block;
+  }
+  #mobile-menu {
+    display: inherit !important;
+  }
+  #mobile-header-right-menu,
+  #mobile-header-left-menu {
+    display: unset;
+  }
+  #footer {
+    border-radius: 43px 43px 0px 0px;
+  }
+  #first_section_footer,
+  #footer_menu,
+  #desktop-footer {
+    display: none;
+  }
+  #second_section_footer,
+  #mobile-footer,
+  #developed_by {
+    display: block !important;
+  }
+  #mobile-footer {
+    display: inherit !important;
+  }
+  .info_descriere {
+    padding: 0 10px;
+    height: auto;
+  }
+  .rent-section {
+    display: none !important;
+  }
+  .rent-button .yellow_border_btn {
+    color: white;
+    border-radius: 10px;
+    font-family: "Montserrat-SemiBold";
+    font-size: 12px;
+    background-color: #182877;
+    border:1px solid #182877;
+  }
+  .header-message {
+    padding-left: 0px;
+    margin-top: 25%;
+  }
+  .text3 {
+    display: none;
+  }
+  .swiper-container.s1 {
+    padding-bottom: 50px;
+  }
+  h1 {
+    font-size: 32px;
+  }
+  #video_with_text {
+    height: 482px;
+  }
+  .blue_background p{
+    max-height: 270px!important;
+  }
+  .blue_background {
+    padding: 10px;
+  }
+  .yellow_title {
+    font-size: 24px;
+  }
+  .blue_background p {
+    font-size: 14px;
+  }
+  #about_homepage .yellow_border_btn {
+    font-size: 15px;
+    width: 200px;
+  }
+  .swiper-container.s2 .swiper-slide {
+    height: 561px;
+  }
+  #about_homepage .swiper-button-prev {
+    top: 305px;
+    left: 0;
+  }
+  #about_homepage .swiper-button-next {
+    top: -320px;
+    right: 0;
+  }
+  .s3 img,
+  .product-description {
+    width: 100%;
+  }
+  .swiper-button-prev3,
+  .swiper-button-next3 {
+    top: 96%;
+  }
+  .swiper-button-prev3 {
+    left: 83%;
+  }
+  .swiper-button-next3 {
+    left: 92%;
+  }
+  #offers_desktop {
+    display: none;
+  }
+  #offers_mobile {
+    display: inherit;
+  }
+  #offers_home img,
+  .card_cadou {
+    height: 421px;
+  }
+  #large_header,
+  .s1,
+  #small_header,
+  .overlay {
+    height: 600px;
+  }
+  #large_header .swiper-pagination {
+    transform: translate3d(0px, -70px, 0px);
+  }
+  .text1 {
+    font-size: 27px;
+  }
+  .text2 {
+    font-size: 53px;
+  }
+  .blue_btn {
+    font-size: 14px;
+  }
+  #rent_bike_page .my_container,
+  #rent_single .my_container {
+    position: unset;
+  }
+  #rent_bike_page .container-principal,
+  #rent_single .container-principal {
+    padding-bottom: 0px;
+  }
+  #rent_single .i_hate_you {
+    display: flex;
+  }
+  .video-swiper .play,
+  #video_with_text .play {
+    width: 50px !important;
+  }
+  .tour_detail h1 {
+    font-size: 37px;
+  }
+  .tour_detail p {
+    font-size: 18px;
+  }
+  #testimoniale_mobile {
+    display: block;
+  }
+  #testimoniale_desktop {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .off-road-butoane{
+    flex-wrap: wrap;
+  }
+  .off-road-butoane>.yellow_btn{
+    width:100%;
+  }
+  .mai-scoatem-din-margina{
+    padding-top: 0em!important;
+  }
+  .language-active-mobile{
+    color:#ffdc47;
+  }
+  #rent_bike_homepage .s3{
+    padding-bottom: 0px!important;
+  }
+  .voucher-container{
+    height: 220px;
+  }
+  .gift_swiper{
+    margin-bottom: 40px;
+  }
+  .reverse{
+    flex-direction: column-reverse;
+  }
+  .lg6imagine{
+    margin-bottom: 20px;
+  }
+  #offroad_details_page>.my_container>.send-request>.row>.col-lg-4>.blue_border_btn{
+    background-position: 95% !important;
+  }
+  .send-request{
+    margin-bottom: 40px!important;
+  }
+  #gallery_page figure {
+    height: 260px;
+  }
+  .underline_title:after {
+    margin-bottom: 30px;
+  }
+  .course img {
+    width: 100%;
+    height: auto;
+  }
+  .course {
+    margin-bottom: 50px;
+  }
+  #contact_page label,
+  #rent_single label,
+  #guided_page label,
+  #guided_details_page label,
+  #offroad_details_page label {
+    font-size: 16px;
+  }
+  #info_container {
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+  }
+  #info_container_home img {
+    padding: 15px;
+  }
+  #info1 {
+    border-radius: 10px 10px 0px 0px !important;
+  }
+  #info3 {
+    border-radius: 0px 0px 10px 10px !important;
+  }
+  .bike_box img {
+    width: 90%;
+  }
+  .bike_box a,
+  .i_hate_you {
+    padding-left: 20px;
+    padding-right: 60px;
+    background-position: 87%;
+  }
+  #video_with_text {
+    height: auto;
+  }
+  #video_with_text .col-lg-7 {
+    height: 432px !important;
+    padding-left: 0px;
+  }
+  #video_with_text .blue_background {
+    border-radius: 0px 0px 19px 19px;
+    align-items: start;
+    padding: 30px 20px;
+  }
+  #video_with_text .blue_background .yellow_title {
+    margin-bottom: 0px !important;
+  }
+  #video_with_text .video-home {
+    border-radius: 19px 19px 0px 0px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .left-header-menu li,.mobile-language  {
+    font-size: 15px;
+  }
+  .rent-container{
+    margin-top: 130px;
+  }
+  .my_container>.rent-mobile-visible{
+    top: 400px;
+  }
+  .rent-mobile-visible>.position-relative{
+    widtH:100%;
+    margin:0 auto;
+    margin-top:20px;
+  }
+  #offroad_page .swiper-button-video-prev{
+    left: -25px;
+    top: -220px;
+  }
+  #offroad_page .swiper-button-video-next {
+    top: -200px;
+    margin-left: auto;
+    right: -25px;
+  }
+  .testimonial p {
+    font-size: 14px;
+  }
+  #voucherModal .modal-footer,
+  #offerModal .modal-footer {
+    padding: 0px;
+  }
+  #voucherModal .modal-footer button {
+    padding: 6px 20%;
+  }
+
+  #voucherModal .modal-body,
+  #offerModal .modal-body {
+    padding: 20px 40px;
+  }
+  #team_page .modal-body {
+    padding: 1rem;
+  }
+  #team_page .modal-body img {
+    height: 100px;
+    width: 100px;
+  }
+  #team_page .modal-content h3 {
+    margin-bottom: 25px;
+  }
+  h1 {
+    font-size: 30px;
+  }
+  .my_container {
+    max-width: 520px;
+  }
+  #large_header .my_container {
+    max-width: 630px;
+  }
+  #video_with_text .col-lg-7 {
+    height: 400px !important;
+    padding-left: 0px;
+  }
+  .flinstones_carpet {
+    font-size: 14px;
+  }
+  .header-message {
+    margin-top: 16%;
+  }
+  .text2 {
+    font-size: 45px;
+  }
+  .course_category {
+    padding: 14px 50px;
+  }
+  .tour_detail h1 {
+    font-size: 35px;
+  }
+  #offroad_page .yellow_btn,
+  #offroad_details_page .yellow_btn {
+    padding: 10px 60px 10px 30px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .rent-container{
+    margin-top: 250px;
+  }
+  #gallery_page figure {
+    height: 325px;
+  }
+
+  .swiper-container.s2 .swiper-slide {
+    height: 385px;
+  }
+  #about_homepage .swiper-button-next {
+    top: -215px;
+  }
+  #about_homepage .swiper-button-prev {
+    top: 220px;
+  }
+  #offers_home img,
+  .card_cadou {
+    height: 294px;
+  }
+  .yellow_btn {
+    font-size: 18px;
+  }
+  #large_header,
+  .s1,
+  #small_header,
+  .overlay {
+    height: 460px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  #large_header .my_container {
+    max-width: 430px;
+  }
+}
+
+@media only screen and (max-width: 540px) {
+
+  .rent-mobile-visible {
+    top: 220px!important;
+  }
+  .rent-container{
+    margin-top: 180px;
+  }
+  .testimonial img {
+    width: 103px;
+    height: 103px;
+  }
+  #team_page #info_container,
+  #about_us_page #info_container,
+  #terms_page #info_container,
+  #politica_page #info_container {
+    margin: 50px 0px;
+  }
+  #offroad_page .yellow_btn,
+  #offroad_details_page .yellow_btn {
+    font-size: 16px;
+  }
+  .tour_detail p {
+    font-size: 16px;
+  }
+  .tour_detail h1 {
+    font-size: 33px;
+  }
+  .photo-swiper img {
+    height: 170px;
+  }
+  .course .tour-description {
+    font-size: 15px;
+  }
+  .course_category {
+    padding: 14px 32px;
+  }
+  #contact_page label,
+  #rent_single label,
+  #guided_page label,
+  #guided_details_page label,
+  #offroad_details_page label {
+    font-size: 15px;
+  }
+  .bike_box a,
+  .i_hate_you {
+    font-size: 15px;
+  }
+  .center-mobile-header img {
+    width: 216px;
+  }
+  .my_container {
+    max-width: 420px;
+  }
+  #newsletter_section p {
+    font-size: 18px;
+  }
+  #large_header .my_container {
+    max-width: 370px;
+  }
+
+  .yellow_title {
+    font-size: 22px;
+  }
+  .swiper-container.s2 .swiper-slide {
+    height: 314px;
+  }
+  .swiper-container.s2,
+  .swiper-container.s3 {
+    padding-bottom: 14%;
+  }
+  #about_homepage .swiper-button-prev {
+    top: 184px;
+  }
+  #offers_home img,
+  .card_cadou {
+    height: 237px;
+  }
+  .toggler {
+    font-size: 18px;
+  }
+  h1 {
+    font-size: 27px;
+  }
+  .text2 {
+    font-size: 38px;
+    line-height: 50px;
+    padding-bottom: 20px;
+  }
+  .text1 {
+    font-size: 22px;
+  }
+  #video_with_text .col-lg-7 {
+    height: 334px !important;
+    padding-left: 0px;
+  }
+  #large_header,
+  .s1,
+  #small_header,
+  .overlay {
+    height: 372px;
+  }
+  .header-message {
+    margin-top: 16%;
+  }
+  p {
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .my_container>.rent-mobile-visible {
+    top: 200px;
+  }
+  #offroad_page .swiper-button-video-prev{
+    left: -25px;
+    top: -160px;
+  }
+  #offroad_page .swiper-button-video-next {
+    top: -140px;
+    margin-left: auto;
+    right: -25px;
+  }
+  #voucherModal .modal-footer button {
+    padding: 6px 15%;
+  }
+  .course_category {
+    padding: 14px 26px;
+  }
+  #offers_home img {
+    height: 220px;
+  }
+  .card_cadou {
+    height: 250px;
+  }
+  .text2 {
+    font-size: 35px;
+  }
+  .text1 {
+    font-size: 20px;
+  }
+  h1 {
+    font-size: 26px;
+  }
+  .tour-description {
+    font-size: 14px;
+  }
+  .flinstones_carpet {
+    font-size: 13px;
+  }
+  .my_container {
+    max-width: 390px;
+  }
+  .photo-swiper img {
+    height: 200px;
+  }
+  #info_container img {
+    width: 90px;
+  }
+  #moneda {
+    font-size: 17px;
+  }
+  #pret_card_cadou,
+  #pret_card_cadou::placeholder {
+    font-size: 32px;
+  }
+  .card_cadou h1 {
+    font-size: 23px;
+  }
+  #name_card_cadou {
+    font-size: 24px;
+  }
+}
+@media only screen and (max-width: 420px) {
+  .rent-container{
+    margin-top: 250px;
+  }
+  .testimonial p {
+    font-size: 13px;
+  }
+  #footer {
+    margin-top: 50px;
+  }
+  #gallery_page figure {
+    height: 260px;
+  }
+  .tour_detail h1 {
+    font-size: 30px;
+  }
+  .tour_detail p {
+    font-size: 15px;
+  }
+  .photo-swiper img {
+    height: 144px;
+  }
+  .course .tour-description {
+    font-size: 14px;
+  }
+  .course_category {
+    padding: 14px 16px;
+  }
+  #contact_page label,
+  #rent_single label,
+  #guided_page label,
+  #guided_details_page label,
+  #offroad_details_page label {
+    font-size: 14px;
+  }
+  .price_element h6 {
+    font-size: 17px;
+  }
+  .date_element h6 {
+    font-size: 15px;
+  }
+  .date_element p,
+  .price_element p {
+    font-size: 12px;
+  }
+  .mobile-header-container {
+    padding: 20px 10px;
+  }
+  .my_container {
+    max-width: 360px;
+  }
+  #large_header .my_container {
+    max-width: 334px;
+  }
+  .header-message {
+    margin-top: 15%;
+  }
+  .text2 {
+    font-size: 30px;
+    line-height: 37px;
+    padding-bottom: 14px;
+  }
+  .text1 {
+    font-size: 17px;
+  }
+  #large_header,
+  .s1,
+  #small_header,
+  .overlay {
+    height: 276px;
+  }
+  .header-message {
+    margin-top: 50px;
+  }
+  #large_header .swiper-pagination {
+    transform: translate3d(0px, -55px, 0px);
+  }
+  .blue_btn {
+    padding: 10px 19px;
+  }
+  h1 {
+    font-size: 24px;
+  }
+  p {
+    font-size: 14px;
+  }
+  #video_with_text .col-lg-7 {
+    height: 291px !important;
+  }
+  #about_homepage .yellow_border_btn {
+    font-size: 14px;
+    width: 190px;
+  }
+  .swiper-container.s2 .swiper-slide {
+    height: 270px;
+  }
+  #about_homepage .swiper-button-prev {
+    top: 149px;
+  }
+  #about_homepage .swiper-button-next {
+    top: -188px;
+  }
+  #offers_home img {
+    height: 203px;
+  }
+  .card_cadou {
+    height: 230px;
+  }
+  .toggler {
+    font-size: 15px;
+  }
+  .yellow_btn {
+    font-size: 16px;
+    padding: 13px;
+  }
+  #newsletter_section,
+  #newsletter_section .overlay {
+    height: 573px;
+  }
+  #newsletter_section input[type="text"] {
+    padding: 14px 0px;
+  }
+  .testimoniale_swiper .swiper-slide img {
+    height: 130px;
+    width: 130px;
+  }
+  .swiper-button-prev-test,
+  .swiper-button-next-test,
+  #about_homepage .swiper-button-next,
+  #about_homepage .swiper-button-prev,
+  .swiper-button-prev-pop,
+  .swiper-button-next-pop,
+  .swiper-button-prev-rec,
+  .swiper-button-next-rec {
+    height: 40px;
+    width: 40px;
+  }
+  .tour-description {
+    height: 56px;
+    bottom: -22px;
+  }
+
+  .blue_border_btn {
+    font-size: 14px;
+  }
+  .info_descriere {
+    font-size: 14px;
+  }
+  #newsletter_section p,
+  #newsletter_section .form-control::placeholder {
+    font-size: 15px;
+  }
+  .card_cadou .inline-price-msg p {
+    font-size: 12px;
+  }
+  #pret_card_cadou,
+  #pret_card_cadou::placeholder {
+    font-size: 25px;
+  }
+  .card_cadou h1 {
+    font-size: 22px;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .testimonial img {
+    width: 88px;
+    height: 88px;
+  }
+  .my_container {
+    max-width: 330px;
+  }
+  #footer .my_container {
+    max-width: 370px;
+  }
+  #video_with_text .col-lg-7 {
+    height: 268px !important;
+  }
+  .swiper-container.s2 .swiper-slide {
+    height: 247px;
+  }
+  #offers_home img {
+    height: 184px;
+  }
+  .text1 {
+    font-size: 14px;
+  }
+  .text2 {
+    font-size: 26px;
+  }
+  #about_homepage .swiper-button-next {
+    top: -161px;
+  }
+}
+@media only screen and (max-width: 360px) {
+  .course_category {
+    padding: 8px 9px;
+    font-size: 13px;
+  }
+  .my_container {
+    max-width: 300px;
+  }
+  #large_header .my_container {
+    max-width: 270px;
+  }
+  #last_part_footer p,
+  #developed_by p {
+    font-size: 11px;
+  }
+  #offers_home img {
+    height: 168px;
+  }
+  .tag {
+    font-size: 11px;
+    padding: 4px 14px;
+  }
+}
